@@ -1,7 +1,9 @@
 
 class Point{
 
-    int  x;
+    int x;
+    int y;
+
 
 }
 
